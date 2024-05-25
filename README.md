@@ -7,5 +7,5 @@
 ## Projects
 ### KNN for Network Intrusion Detection
 
-
+[Network Intrusion Detection Notebook](network_intrusion_detection.ipynb)
 
