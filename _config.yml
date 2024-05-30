@@ -3,3 +3,5 @@ logo: /assets/img/Untitled.jpeg
 #description: text below image
 #show_downloads: false
 theme: jekyll-theme-minimal
+custom_css:
+  - /assets/css/custom.css
